@@ -12,7 +12,7 @@ let myResume = {
         "state" : "tamilNadu",
         "pincode" : 600001,
      },
-     "10 th education": [
+     "UG education": [
         {
           "institution": " College Of Engineering",
           "department": "Automobile",
